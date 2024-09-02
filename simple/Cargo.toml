@@ -1,0 +1,9 @@
+[package]
+name = "simple"
+version.workspace = true
+authors.workspace = true
+description = "the timeless re-implementation of 10print"
+edition = "2021"
+
+[dependencies]
+nannou.workspace = true

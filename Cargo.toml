@@ -1,0 +1,12 @@
+[workspace]
+members = [
+  "simple",
+]
+
+[workspace.package]
+version = "0.1.0"
+authors = ["Zaidin Amiot"]
+description = "Variations around 10print"
+
+[workspace.dependencies]
+nannou = "0.19"
